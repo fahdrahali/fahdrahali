@@ -5,7 +5,6 @@
 - 🔭 I’m full-stack web development and now I'm a student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 - 🌱 I’m learning HTML, CSS, JavaScript
 - 🌴 I’m looking to learn React and Redux
-- 👯 I’m looking to collaborate on on any exciting project
 - ⚡ Fun fact: Practice makes perfect
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fahd-rahali/)
 
