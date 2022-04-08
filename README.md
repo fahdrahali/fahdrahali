@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in HTML, CSS, JavaScript, TypeScript, React, Ruby, Rails, Java.
-- 🔭 I’m currently learning full-stack software development at![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
+- 🔭 I’m currently learning full-stack software development at  ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 - 🌱  I’m looking forward to learning React and Redux
 - ⚡ Fun fact: Practice makes us better
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fahd-rahali/)
