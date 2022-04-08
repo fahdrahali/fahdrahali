@@ -3,8 +3,7 @@
 
 - 👀 I’m interested in HTML, CSS, JavaScript, TypeScript, React, Ruby, Rails, Java.
 - 🔭 I’m full-stack web development and now I'm a student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
-- 🌱 I’m learning HTML, CSS, JavaScript
-- 🌴 I’m looking to learn React and Redux
+- 🌱  I’m looking forward to learning React and Redux
 - ⚡ Fun fact: Practice makes us better
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fahd-rahali/)
 
